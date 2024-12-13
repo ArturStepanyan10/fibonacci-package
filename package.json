@@ -1,10 +1,16 @@
 {
-  "name": "my_npm_package",
+  "name": "factori",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArturStepanyan10/fibonacci-package.git"
+  },
+
   "keywords": [
     "fibonacci",
     "math",
@@ -13,7 +19,7 @@
   ],
   "author": "Artur Stepanyan",
   "license": "MIT",
-  "description": "",
+  "description": "A lightweight npm package for calculating Fibonacci numbers using an efficient iterative algorithm. Perfect for mathematical operations or educational purposes.",
   "devDependencies": {
     "webpack": "^5.97.1",
     "webpack-cli": "^5.1.4"

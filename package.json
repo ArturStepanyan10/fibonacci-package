@@ -1,5 +1,5 @@
 {
-  "name": "fibonacci-package",
+  "name": "@arti10/fibonacci-package",
   "version": "1.0.0",
   "main": "script.js",
   "scripts": {
